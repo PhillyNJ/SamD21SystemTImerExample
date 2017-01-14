@@ -1,7 +1,7 @@
 # SamD21SystemTImerExample
 Timer Control System Timer for the SAMD21 
 
-This tutorial I will show you how to implement a Stop Watch Timer Controller. This tutorial is based off the Atmel’s LWMesh Peer2Peer Application for the SAMR21 xplained pro. While working on the example project, there was a System Software Timer routine that I wanted to implemented on other projects and boards.
+This tutorial will show you how to implement a Stop Watch Timer Controller. This tutorial is based off the Atmel’s LWMesh Peer2Peer Application for the SAMR21 xplained pro. While working on the example project, there was a System Software Timer routine that I wanted to implemented on other projects and boards.
 
 This code works like a stop watch. You can start and stop the timer as needed. This can be very useful measuring timeouts. I recently worked on a LWMesh project with 2 SAMR21 Xplained Pro boards. The SAMR21 is a Radio Tranceivers. The project consisted of sending large amounts of data from one board to the next via RF. I implemented a time out to know that that sender know that the receiver never received all the data.
 
